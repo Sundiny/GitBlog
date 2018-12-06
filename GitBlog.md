@@ -4,7 +4,7 @@
 
 （2）  git从一个分支想另一个分支合并代码的时候，会把要合并的分支所有提交一个一个 的合并到分支上，合并后能看到版本变更记录
 
-（3） git分支切换便捷，其衍生出来的很多工具能帮助我们更好的管理和进行coding，如github/gitlab的wiki fork pull request，issue以及Face Book的code review 工具Phabaritor 的arc diff 和arc land（非常好用墙裂推荐）
+（3） git分支切换便捷，其衍生出来的很多工具能帮助我们更好的管理和进行coding，如github/gitlab的wiki fork pull request，issue以及FaceBook的code review 工具Phabaritor （https://www.phacility.com/）的arc diff 和arc land（非常好用墙裂推荐）
 
 （4）有很多非常好用的功能，例如 万能提交的git push –f（滑稽脸）
 
